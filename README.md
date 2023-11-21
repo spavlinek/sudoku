@@ -1,5 +1,4 @@
-This project is Sudoku. You play the sudoku game. The project can be run 
-with the sudoku.py folder and needs itertools and pyscreenshot to function.
+This project is a version of the NY Times Sudoku. The project can be run with the sudoku.py folder and needs itertools and pyscreenshot to function.
 The extra features included are: a more sophisticated unban, preferences and ability to convert to pdf file.
 Keyboard shortcuts:
 's' - toggle showing solution board
@@ -10,3 +9,6 @@ Keyboard shortcuts:
 'H' - play hint1
 't' - get hint2
 'T' - play hint2
+
+Walkthrough of game:
+https://drive.google.com/file/d/1ei3qQpldPKNkrD44WcOqIMma7qLfsJq7/view?usp=sharing
